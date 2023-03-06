@@ -4,7 +4,7 @@ I am 40 years old, for the last 3 years I have been working as an engineer of th
 ## **Contacts**
 * email   p.zhuk82@gmail.com
 
-## **SkilLs**
+## **Skills**
 * HTML
 * CSS
 * JavaScript (entry level)
@@ -29,8 +29,8 @@ function solution(str){
 solution("world")
 ```
 ## **Education**
-* Belarusian State University of Informatics and Radioelectronics
-     * Software Engineer (incomplete second higher education)
+     * Belarusian State University of Informatics and Radioelectronics
+       Software Engineer (incomplete second higher education)
      * Pre-School in RSSchool 2022
 
 ## **Knowledge of foreign languages**
