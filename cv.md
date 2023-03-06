@@ -32,6 +32,7 @@ solution("world")
 * Belarusian State University of Informatics and Radioelectronics
      * Software Engineer (incomplete second higher education)
      * Pre-School in RSSchool 2022
+
 ## **Knowledge of foreign languages**
 * English - A1
 
