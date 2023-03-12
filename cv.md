@@ -34,5 +34,5 @@ solution("world")
      * Pre-School in RSSchool 2022
 
 ## **Knowledge of foreign languages**
-* English - A1
+* English-A1
 
